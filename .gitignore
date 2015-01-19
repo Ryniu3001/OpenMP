@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.exe
+/Debug
+/PI/Debug/PI.tlog
+/PI/Debug
+/PI/Release/PI.tlog
+/PI/Release
